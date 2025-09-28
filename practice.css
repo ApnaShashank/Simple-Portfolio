@@ -1,0 +1,102 @@
+@font-face {
+    font-family: 'Neue Machina';
+    src: url(./NeueMachina-Regular_DQCmjH1st.ttf);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: azure;
+}
+
+#header {
+    background-color: rgb(6, 178, 115);
+    color: aliceblue;
+    font-family: 'Neue Machina', sans-serif;
+    text-align: center;
+    margin-bottom: 10px;
+    height: 230px;
+    padding: 60px;
+}
+
+#about {
+    background-color: #5ecdf1f8;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 50px;
+    margin: 0 100px;
+    border-radius: 10px;
+    padding: 0px 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#education {
+    background-color: #f15e5ee8;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin: 0 100px;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#skills {
+    background-color: #f1c45ee8;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin: 0 100px;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#projects {
+    background-color: #a45ef1e8;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin: 0 100px;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#contact {
+    background-color: #f15e9ee8;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin: 0 100px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgb(6, 178, 115);
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+h3 {
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+p {
+    color: white;
+}
